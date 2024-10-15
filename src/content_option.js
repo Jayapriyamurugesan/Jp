@@ -1,17 +1,17 @@
 const logotext = "{Initials Here}";
 const meta = {
-    title: "Hari Krishnan",
+    title: "Neela",
     description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm Hari Krishnan",
+    title: "Hi,Neela",
     animated: {
         first: "Technologist",
         second: "Visionary",
         third: "Ethical Hacker",
         fourth: "Programmer",
-        fifth: "Malware Developer",
+        fifth: "Web Developer",
         sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
